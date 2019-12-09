@@ -1,0 +1,29 @@
+reste :
+faire cartes et images :::::::::::::::: A FAIRE !!!!
+mettre dans textes ::::::::::: FAIT !!!!
+lire cartes dans panneau ::::: FAIT !!!!
+menu ? :::::::::::::::::: moins important
+faster ? affichage :::::::::::::::::::::::: ok
+creer niveau (etoiles) ::::::::::::::: ok
+creer BALLE :::::::::::::::::::::: ok
+creer collision :::::::::::::::::::::::::::::::::::::::::::::::::::::::: (a finir) EN SUSPEND !!!
+creer vit, accele, position ::::::::::::::::::::: ok
+interaction quand appui sur fleches ::::::::::::: ok
+cases spéciales -> interactions
+regler vitesse et acceleration sur cote :::::::::::::::::::::::::::::::: ok
+
+MULTIJOUEUR ? :::::::::::::::::::::: option moins important
+
+bouton retour :::::::::::::::::::::::::::::::::::::::::::::::::::::::::: ok
+
+
+REGLER VITESSE // ???
+
+
+FINIR COLLISION
+(MULTIJOUEUR)
+FINIR CARTES
+(CASES SPECIALES)
+
+
+FAIRE FIN JEU (GAGNE) // DONE
